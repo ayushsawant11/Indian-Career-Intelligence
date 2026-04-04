@@ -17,19 +17,6 @@ This project is a comprehensive machine learning pipeline designed to decode the
 * **DevOps**: Docker, FastAPI, GitHub Actions (CI/CD)
 * **UI/Demo**: Gradio & HuggingFace Spaces
 
----
-
-### 📈 Project Log (30-Day Sprint)
-
-#### **Week 1: Data Foundations & Salary Prediction**
-* **Day 1 (March 31, 2026)**: 
-    * Initialized repository and set up environment.
-    * Filtered 127k+ rows to extract ~3k high-quality samples with explicit salary data.
-    * Performed EDA on salary distribution across **Mumbai**, **Bengaluru**, **Hyderabad**, **Pune**, and **Gurugram**.
-    * **Finding**: Initial boxplots show significant salary variance in Bengaluru compared to other hubs.
-* **Day 2 (Planned)**: Preprocessing pipeline setup and handling the Experience column.
-
----
 
 ### 👨‍💻 Author
 **Ayush Sawant** *3rd Year AI & Data Science Student*
